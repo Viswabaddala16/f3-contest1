@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+.adding-employees{
+    display: grid;
+    grid-template-columns: repeat(3,auto);
+    gap: 2rem;
+    width: 100vw;
+    /* height: 100vh; */
+    /* display: table; */
+    /* width: 100%; */
+    margin-bottom: 20px;
+    /* justify-content: center;
+    align-items: center; */
+    
+
+}
+
+
+
+.btn{
+    margin-top: 20px;
+    display: block;
+    margin-bottom: 20px;
+}
